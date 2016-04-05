@@ -1,2 +1,2 @@
 # triflephp
-Multi Layer PHP Framework
+Slim PHP Framework
