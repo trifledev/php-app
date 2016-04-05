@@ -1,2 +1,2 @@
-# triflephp
+# trifle-php
 Slim PHP Framework
