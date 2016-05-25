@@ -1,2 +1,2 @@
-# trifle-php
-Slim PHP Framework
+# php-app
+Slim PHP Application Framework
